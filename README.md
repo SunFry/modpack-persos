@@ -34,7 +34,7 @@ Ce repository sert de bibliothèque centralisée pour mes modpacks personnels. C
 Une expérience spatiale simplifiée et optimisée, parfaite pour découvrir l'exploration spatiale sans surcharge.
 
 **Mods Principaux :**
-- Galacticraft Legacy + More Planets - Exploration spatiale et voyages planétaires
+- Galacticraft Legacy + More Planets + Galaxy Space - Exploration spatiale et voyages planétaires
 - Mekanism - Mécanismes et technologies supplémentaires
 
 **Mods Secondaires :**
@@ -45,6 +45,8 @@ Une expérience spatiale simplifiée et optimisée, parfaite pour découvrir l'e
 - Simple Ore - Minerais additionnels pour la progression
 - Quark - Améliorations variées du gameplay vanilla
 - Simple Storage - Systèmes de stockage simplifiés
+- Space Ambient - Ambiances, musiques etc en plus sur les planètes de galacticraft
+- AmbientSounds 6 - Ambiances, sounds etc en plus dans l'overworld etc
 
 **Mods d'Optimisation :**
 - Phosphor - Optimisation de l'éclairage (performance)
