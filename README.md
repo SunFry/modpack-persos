@@ -56,5 +56,5 @@ Une expérience spatiale simplifiée et optimisée, parfaite pour découvrir l'e
 
 ---
 
-**Dernière mise à jour :** 17 mai 2026
+**Dernière mise à jour :** 18 mai 2026
 
