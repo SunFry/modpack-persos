@@ -35,7 +35,7 @@ Une expérience spatiale simplifiée et optimisée, parfaite pour découvrir l'e
 
 **Mods Principaux :**
 - Galacticraft Legacy + More Planets + Galaxy Space - Exploration spatiale et voyages planétaires
-- Mekanism - Mécanismes et technologies supplémentaires
+- Mekanism / Mekanism Generators / Mekanism Tools - Mécanismes et technologies supplémentaires
 
 **Mods Secondaires :**
 - Oh The Biomes You'll Go - Nouveaux biomes variés et exploitables
@@ -47,6 +47,7 @@ Une expérience spatiale simplifiée et optimisée, parfaite pour découvrir l'e
 - Simple Storage - Systèmes de stockage simplifiés
 - Space Ambient - Ambiances, musiques etc en plus sur les planètes de galacticraft
 - AmbientSounds 6 - Ambiances, sounds etc en plus dans l'overworld etc
+- Cavern II - Bundle de dimensions de cavernes, dimensions de minages etc additionnels
 
 **Mods d'Optimisation :**
 - Phosphor - Optimisation de l'éclairage (performance)
@@ -56,5 +57,5 @@ Une expérience spatiale simplifiée et optimisée, parfaite pour découvrir l'e
 
 ---
 
-**Dernière mise à jour :** 18 mai 2026
+**Dernière mise à jour :** 24 mai 2026
 
