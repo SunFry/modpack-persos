@@ -48,7 +48,7 @@ Une expérience spatiale simplifiée et optimisée, parfaite pour découvrir l'e
 - Space Ambient - Ambiances, musiques etc en plus sur les planètes de galacticraft
 - AmbientSounds 6 - Ambiances, sounds etc en plus dans l'overworld etc
 - Cavern II - Bundle de dimensions de cavernes, dimensions de minages etc additionnels
-- Open Block Elevator - Rajoute des blocs simples servant d'ascensceur (sneak ou jump pour monter et descendre)
+- Open Block Elevator - Rajoute des blocs simples servant d'ascenseur (sneak ou jump pour monter et descendre)
 
 **Mods d'Optimisation :**
 - Phosphor - Optimisation de l'éclairage (performance)
