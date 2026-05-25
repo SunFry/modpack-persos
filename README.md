@@ -33,6 +33,8 @@ Ce repository sert de bibliothèque centralisée pour mes modpacks personnels. C
 
 Une expérience spatiale simplifiée et optimisée, parfaite pour découvrir l'exploration spatiale sans surcharge.
 
+La liste suivante n'est pas exhaustive
+
 **Mods Principaux :**
 - Galacticraft Legacy + More Planets + Galaxy Space - Exploration spatiale et voyages planétaires
 - Mekanism / Mekanism Generators / Mekanism Tools - Mécanismes et technologies supplémentaires
@@ -49,6 +51,7 @@ Une expérience spatiale simplifiée et optimisée, parfaite pour découvrir l'e
 - AmbientSounds 6 - Ambiances, sounds etc en plus dans l'overworld etc
 - Cavern II - Bundle de dimensions de cavernes, dimensions de minages etc additionnels
 - Open Block Elevator - Rajoute des blocs simples servant d'ascenseur (sneak ou jump pour monter et descendre)
+- Building Gadgets - Ajoute un outil pour faciliter et accélérer le building
 
 **Mods d'Optimisation :**
 - Phosphor - Optimisation de l'éclairage (performance)
