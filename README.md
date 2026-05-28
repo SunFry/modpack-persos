@@ -52,7 +52,7 @@ La liste suivante n'est pas exhaustive
 - Cavern II - Bundle de dimensions de cavernes, dimensions de minages etc additionnels
 - Open Block Elevator - Rajoute des blocs simples servant d'ascenseur (sneak ou jump pour monter et descendre)
 - Building Gadgets - Ajoute un outil pour faciliter et accélérer le building
-- Simple Magnets - Ajoute un aimant pour récupérer plus facilement et rapidement les items autour de soi
+- Simple Magnet - Ajoute un aimant pour récupérer plus facilement et rapidement les items autour de soi
 
 **Mods d'Optimisation :**
 - Phosphor - Optimisation de l'éclairage (performance)
@@ -62,5 +62,5 @@ La liste suivante n'est pas exhaustive
 
 ---
 
-**Dernière mise à jour :** 28 mai 2026
+**Dernière mise à jour :** 29 mai 2026
 
