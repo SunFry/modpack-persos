@@ -53,6 +53,7 @@ La liste suivante n'est pas exhaustive
 - Open Block Elevator - Rajoute des blocs simples servant d'ascenseur (sneak ou jump pour monter et descendre)
 - Building Gadgets - Ajoute un outil pour faciliter et accélérer le building
 - Simple Magnet - Ajoute un aimant pour récupérer plus facilement et rapidement les items autour de soi
+- Cyclic - Rajoute du contenu utilitaires ou lié au vanilla (Autocraft, Auto-harvester etc)
 
 **Mods d'Optimisation :**
 - Phosphor - Optimisation de l'éclairage (performance)
