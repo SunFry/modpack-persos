@@ -55,6 +55,7 @@ La liste suivante n'est pas exhaustive
 - Simple Magnet - Ajoute un aimant pour récupérer plus facilement et rapidement les items autour de soi
 - Cyclic - Rajoute du contenu utilitaires ou lié au vanilla (Autocraft, Auto-harvester etc)
 - Real Filing Cabinet - Rajoute un système de stockage par classeur (un bloc stockant jusqu'à 8 dossier lié à 1 item pouvant en stocker des milliers/millions)
+- Storage Drawer - Rajoute des drawers de stockage pour gérer le stockage de ressources ciblés en grandes quantités
 
 **Mods d'Optimisation :**
 - Phosphor - Optimisation de l'éclairage (performance)
@@ -64,5 +65,5 @@ La liste suivante n'est pas exhaustive
 
 ---
 
-**Dernière mise à jour :** 30 mai 2026
+**Dernière mise à jour :** 31 mai 2026
 
